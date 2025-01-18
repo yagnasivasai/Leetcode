@@ -1,4 +1,4 @@
-package org.engineering.digest;
+package org.engineering.digest.leetcode75;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package org.engineering.digest;
+package org.engineering.digest.leetcode75;
 
 public class gcdOfStrings {
 

@@ -1,10 +1,8 @@
-package org.engineering.digest;
+package org.engineering.digest.leetcode75;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.List;
-import java.util.stream.Stream;
 
 public class kidsWithCandies {
     public static List<Boolean> kidsWithCandies(int[] candies, int extraCandies) {
