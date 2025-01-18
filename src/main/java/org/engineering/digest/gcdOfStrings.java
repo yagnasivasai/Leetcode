@@ -46,7 +46,7 @@ public class gcdOfStrings {
         String str1 = "ABCABC";
         String str2 = "ABCABCABC";
         String test = "ILOVEYOU";
-        System.out.println(test.substring(6));
+//        System.out.println(test.substring(6));
 //        System.out.println(gcdOfStrings(str1,str2));
 //        System.out.println(gcdOfStringsRecursive(str1,str2));
         System.out.println(gcdofStringsCompare(str1,str2));
